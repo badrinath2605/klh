@@ -1,8 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
+
 import { Bell, Phone, Users, CalendarDays, AlertTriangle, Home, MessageCircle } from "lucide-react";
 
 export default function GramaHealthSaathiApp() {
